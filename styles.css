@@ -2,7 +2,7 @@
 .first{
 	text-align:center;}
 body{
-	background-color:lightgrey;
+	background-color:rgb(204, 204, 204);
 }
 .second{
 	border:1px solid black;
@@ -15,14 +15,20 @@ body{
 }
 .third{
 	text-align:center;
+	background-color: rgb(255, 255, 255);
 }
 .video{
 	border:1px solid black;
 }
 .player_one{
-	width:100%;
-	
+	width:100%;	
+	background-color:rgb(255,255,255);
+	padding:1px;
+	border-radius:2px;
 }
 .secon{
 	list-style-type:none
+}
+.player_two{
+	width:100%;	
 }

@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.first{
+	text-align:center;}
+body{
+	background-color:lightgrey;
+}
+.second{
+	border:1px solid black;
+	border-radius:5px;
+	list-style-type:none;
+	background-color:white;
+}
+.middle{
+	text-align:center;
+}
+.third{
+	text-align:center;
+}
+.video{
+	border:1px solid black;
+}
+.player_one{
+	width:100%;
+	
+}
+.secon{
+	list-style-type:none
+}
